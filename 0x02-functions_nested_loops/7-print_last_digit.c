@@ -1,23 +1,30 @@
-#include"main.h"
+#include "main.h"
+
 /**
- * print_last_digit - Prints the last digit
- * of a number.
+ * print_sign - Determines if the input number
+ * greater, iqual or less than zero.
  *
- * @i: input number as an integer.
+ * @n: The input number as an integer.
  *
- * Return: last digit.
+ * Return: 1 is greater than zero. 0 is zero.
+ * -1 is less than zero.
  */
-int print_last_digit(int i)
+int print_sign(int n)
 {
-	int l = i % 10;
-
-	if (i < 0)
-		i = -1;
-
-	if (i < 0)
-		l = -1;
-
-	_putchar(l + '0');
-
-	return (1);
+	if (n > 0)
+	{
+		_putchar(43);
+		return (1);
+	}
+	else if (n < 0)
+	{
+		_putchar(45);
+		return (-1);
+	}
+	else
+	{
+		_putchar(48);
+		return (0);
+	}
+	_putchar('\n');
 }
