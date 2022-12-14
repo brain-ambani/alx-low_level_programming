@@ -3,11 +3,11 @@
  * print_last_digit - Prints the last digit
  * of a number.
  *
- * @n: input number as an integer.
+ * @i: input number as an integer.
  *
  * Return: last digit.
  */
-int print_last_digit(int n)
+int print_last_digit(int i)
 {
 	int l = i % 10;
 
