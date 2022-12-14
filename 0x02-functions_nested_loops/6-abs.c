@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.c"
 
 /**
  * _abs - Computes the absolute value
