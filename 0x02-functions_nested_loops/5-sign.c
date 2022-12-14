@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * print_sign - a function that prints the sign of a number
- * @n: number input
+ * @n: ASCII code
  * Return: 1 prints '+' when n>0, '0' when n=0, '-1' when n<0
 */
 int print_sign(int n)
@@ -11,15 +11,14 @@ int print_sign(int n)
 		putchar(43);
 		return (1);
 	}
-	else if (n < 0)
-	{
-		putchar(45);
-		return (-1);
-	}
-	else
+	else if (n == 0)
 	{
 		putchar(48);
 		return (0);
 	}
-	putchar('\n');
+	else
+	{
+		putchar(45);
+		return (-1);
+	}
 }
