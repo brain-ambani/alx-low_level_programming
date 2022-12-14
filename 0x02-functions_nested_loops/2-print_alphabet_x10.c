@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * print_alphabet_x10 - function prints the alphabet 10 times in lower case.
@@ -13,8 +13,8 @@ void print_alphabet_x10(void)
 	{
 		for (j = 'a'; j <= 'z'; j++)
 		{
-			putchar(j);
+			_putchar(j);
 		}
-		putchar('\n');
+		_putchar('\n');
 	}
 }
