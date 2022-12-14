@@ -20,4 +20,5 @@ int print_sign(int n)
 	{
 		putchar('-'); /*putchar(45) apply this when using  ASCII code*/
 		return (-1);
+	}
 }
