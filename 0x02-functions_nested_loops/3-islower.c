@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  *_islower -a function that checks for lower characters
  *@c: The charactersin ASCII code
@@ -15,5 +15,5 @@ int _islower(int c)
 	{
 		return (0);
 	}
-	putchar('\n');
+	_putchar('\n');
 }
