@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * _isalpha - a function thats checks for alphabetic characters
  *
@@ -15,5 +15,5 @@ int _isalpha(int c)
 	{
 		return (0);
 	}
-	putchar('\n');
+	_putchar('\n');
 }
