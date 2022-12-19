@@ -9,14 +9,14 @@ void rev_string(char *s)
 	int len = 0, i, j;
 	char *str, temp;
 
-	while (count >= 0)
+	while (len >= 0)
 	{
 		if (s[len] == '\0')
-			break
+			break;
 		len++
 	}
 	str = s;
-	for (i = 0; i < (count - 1); i++)
+	for (i = 0; i < (len - 1); i++)
 	{
 		for (j = i + 1; j > 0; j--)
 		{
