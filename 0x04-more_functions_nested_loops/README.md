@@ -1,6 +1,6 @@
 # More functions and neste loops
 
-##### Project done during Full Stack Software Engineering studies at Alx Africa.
+##### Project done during Full Stack Software Engineering studies at Alx Africa. It aims to learn about header files, functions, loops and nested loops in C.
 
 ### Files
 
