@@ -1,5 +1,5 @@
 # Functions and nested loops
-##### Project done during Full Stack Software Engineering studies at Alx Africa. It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in C language.
+##### Project done during Full Stack Software Engineering studies at Alx Africa. It aims to learn about header files, functions, loops and nested loops in C.
 
 ### Files
 
@@ -24,3 +24,4 @@
 | 102-fibonacci.c	| Prints the first 50 Fibonacci numbers, starting with 1 and 2 |
 | 103-fibonacci.c	| Finds and prints the sum of the even-valued terms |
 | 104-fibonacci.c	| Finds and prints the first 98 Fibonacci numbers |
+| main.h | Header files |
