@@ -20,4 +20,6 @@ All of the following folders are projects done during the studies:
 | 0x09-static_libraries | focuses on static libaries |
 | 0x0A-argc_argv | aims to learn how to use arguments passed to a program. |
 | 0x0B-malloc_free | focuses on automatic and dyna,mic allocation. |
+| 0x0C-more_malloc_free | focuses on how to use >malloc, >calloc, >realloc and >exit |
+
 
