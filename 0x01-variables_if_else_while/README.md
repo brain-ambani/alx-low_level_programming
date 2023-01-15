@@ -1,6 +1,6 @@
 # Variabls, if else and while
 
-##### Project done during Full Stack Software Engineering studies at Alx Africa. It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in C language.
+##### Project done during Full Stack Software Engineering studies at Alx Africa. It aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in C
 
 ### Files
 The following files are scripts and programs written in C:
