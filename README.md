@@ -21,5 +21,7 @@
 | [0x0A-argc_argv](https://github.com/brian-ambani/alx-low_level_programming/tree/master/0x0A-argc_argv) | aims to learn how to use arguments passed to a program. |
 | [0x0B-malloc_free](https://github.com/brian-ambani/alx-low_level_programming/tree/master/0x0B-malloc_free) | focuses on automatic and dynamic allocation. |
 | [0x0C-more_malloc_free](https://github.com/brian-ambani/alx-low_level_programming/tree/master/0x0C-more_malloc_free) | focuses on how to use malloc, calloc, realloc and exit |
-
+| [0x0D. C - Preprocessor](https://github.com/brian-ambani/alx-low_level_programming/tree/master/0x0D-preprocessor) | It aims to learn about how to include guard in the header files and macros in C language |
+| [0x0E-structures_typedef](https://github.com/brian-ambani/alx-low_level_programming/tree/master/0x0E-structures_typedef) | Focuses structures and typedef in C |
+| [0x0F-function_pointers](https://github.com/brian-ambani/alx-low_level_programming/tree/master/0x0F-function_pointers) | Focuses on function pointers in c|
 
