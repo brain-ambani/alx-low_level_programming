@@ -24,4 +24,6 @@
 | [0x0D. C - Preprocessor](https://github.com/brian-ambani/alx-low_level_programming/tree/master/0x0D-preprocessor) | It aims to learn about how to include guard in the header files and macros in C language |
 | [0x0E-structures_typedef](https://github.com/brian-ambani/alx-low_level_programming/tree/master/0x0E-structures_typedef) | Focuses structures and typedef in C |
 | [0x0F-function_pointers](https://github.com/brian-ambani/alx-low_level_programming/tree/master/0x0F-function_pointers) | Focuses on function pointers in c|
-
+| [0x10-variadic_functions](https://github.com/brian-ambani/alx-low_level_programming/tree/master/0x10-variadic_functions) | Focuses on variadic functions |
+| [0x12-singly_linked_lists](https://github.com/brian-ambani/alx-low_level_programming/tree/master/0x12-singly_linked_lists) | Aims to learn how to define singly linked list and traversing through them |
+| [0x13-more_singly_linked_lists](https://github.com/brian-ambani/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists) | Deep into singly linked list |
