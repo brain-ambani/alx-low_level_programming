@@ -2,7 +2,6 @@
 
 /**
  * hash_table_print - prints the keys and values of the hash table
- *
  * @ht: pointer to the hash table
  * Return: no return
  */
